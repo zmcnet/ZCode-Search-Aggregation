@@ -43,4 +43,4 @@
 - 密集检索会触发各家限流（搜狗验证码、百度安全验证、Yahoo 500），正常使用频率下无此问题。
 - 站点改版会导致对应引擎解析失效，需要按新结构更新解析器。
 
-[1.0.0]: https://cnb.cool/kybll/ZCode-Search-Aggregation/releases/tag/v1.0.0
+[1.0.0]: https://github.com/zmcnet/ZCode-Search-Aggregation/releases/tag/v1.0.0
